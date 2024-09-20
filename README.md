@@ -1,4 +1,4 @@
-# wandelbots_python_plan_motion
+# Wandelbots Python Plan Motion
 
 This example contains a simple python app served by [fastapi](https://github.com/tiangolo/fastapi).
 It shows you how to move a robot with the [wandelbots python API client](https://pypi.org/project/wandelbots-api-client/) and the internal planner directly.
