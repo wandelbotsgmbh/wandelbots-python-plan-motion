@@ -10,4 +10,4 @@ Use the following steps for development:
     * access the example on `http://localhost:3000`
 * install the app with `cli app install`
 
-<img width="1280" alt="Bildschirmfoto 2024-09-20 um 13 24 13" src="https://github.com/user-attachments/assets/9f222fa0-7d05-4449-afdd-3c2e53a9fb7e">
+<img width="100%" alt="Bildschirmfoto 2024-09-20 um 13 24 13" src="https://github.com/user-attachments/assets/9f222fa0-7d05-4449-afdd-3c2e53a9fb7e">
